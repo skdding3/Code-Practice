@@ -8,3 +8,8 @@ Data 처리관련한 코드들 개인적으로 공부하고있습니다.
 lambda x
 
 list
+
+전역변수
+
+unpacking
+
