@@ -12,3 +12,5 @@ Data 처리관련한 코드들 개인적으로 공부하고있습니다.
 개발관련 킷 공부 , SQL (7월)
 
 TensorFlow(DeepLearning) (8월)
+
+Algorithm (9월)
