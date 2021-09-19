@@ -13,4 +13,4 @@ Data 처리관련한 코드들 개인적으로 공부하고있습니다.
 
 TensorFlow(DeepLearning) (8월)
 
-Algorithm (9월)
+Algorithm & 자료구조(9월)
