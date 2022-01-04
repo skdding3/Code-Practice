@@ -18,3 +18,5 @@ Algorithm & 자료구조(9월)
 Review(Dacon - 1 day 1 python for Data Science)
 
 Statistics - 데이터 사이언스 통계 (통계 스터디)
+
+Sql
