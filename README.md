@@ -19,4 +19,4 @@ Review(Dacon - 1 day 1 python for Data Science)
 
 Statistics - 데이터 사이언스 통계 (통계 스터디)
 
-Sql
+Sql - 데이터 추출하는 쿼리문 연습
